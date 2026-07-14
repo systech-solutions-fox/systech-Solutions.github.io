@@ -1,2 +1,2 @@
-# Systronx Solution
+# Systech Solution
 Ready for GitHub Pages.
