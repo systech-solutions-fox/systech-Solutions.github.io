@@ -1,4 +1,4 @@
-# Systronx Solution
+# Systech Solution
 
 Responsive one-page website for Systronx Solution.
 
